@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/junit4-ant-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/lucene-analyzers-common-5.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/lucene-codecs-5.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/lucene-core-5.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/lucene-queries-5.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/lucene-queryparser-5.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/lucene-sandbox-5.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/lucene-test-framework-5.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse/java-oxygen/lucene-arabic-analyzer-1.0.1/target/dependency/randomizedtesting-runner-2.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
